@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppLab12</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_memoria_interna">memoria_interna</string>
+    <string name="title_activity_memoria_externa">memoria_externa</string>
+    <string name="TextoGuardar">Introduzca el Texto a Guardar</string>
+    <string name="GuardarMExt">Guardar M. Externa</string>
+    <string name="textomenu">Menu</string>
+    <string name="GuardarMInt">Guardar M. Interna</string>
+    <string name="VerArchivo">Ver Archivo</string>
+    <string name="TextoTitulo">Escoja donde Guardar el Archivo</string>
+    <string name="MemInt">Memoria Interna</string>
+    <string name="MemExt">Memoria Externa</string>
+</resources>
